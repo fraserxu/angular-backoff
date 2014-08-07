@@ -1,0 +1,26 @@
+{
+  "name": "angular-backoff",
+  "version": "0.1.0",
+  "homepage": "https://github.com/fraserxu/angular-backoff",
+  "authors": [
+    "fraserxu <xvfeng123@gmail.com>"
+  ],
+  "description": "exponential backoff for angularjs",
+  "main": "dist/angular-backoff.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "exponential",
+    "backoff",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
