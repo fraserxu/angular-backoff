@@ -3,6 +3,8 @@ angular-backoff
 
 exponential backoff for angularjs
 
+**Note:** This module was imported from [backo](https://github.com/segmentio/backo) by segmentio. I just build a wrapper for use in Angularjs.
+
 #### Install:
 
 * `bower install angular-backoff` Install with `bower`
