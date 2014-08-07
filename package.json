@@ -1,0 +1,22 @@
+{
+  "name": "angular-backoff",
+  "version": "0.0.1",
+  "description": "exponential backoff for angularjs",
+  "devDependencies": {
+    "uglify-js": "^2.4.14",
+    "coffee-script": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fraserxu/angular-backoff.git"
+  },
+  "keywords": [
+    "ionic"
+  ],
+  "author": "fraserxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraserxu/angular-backoff/issues"
+  },
+  "homepage": "https://github.com/fraserxu/angular-backoff"
+}
