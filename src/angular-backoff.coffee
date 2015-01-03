@@ -17,7 +17,7 @@ Backoff = ->
             Math.min(ms, @max) | 0
 
         reset: ->
-            @attemps = 0
+            @attempts = 0
 
 Backoff.$inject = []
 
